@@ -1,4 +1,6 @@
-cif,nombre,cartera_vigente,interes_ganado,costo_ftp,interes_pagado,reconocimiento_ftp,ingresos_comisiones,ingresos_servicios,costos_transaccionales,costos_fuerza_ventas,costos_mantenimiento,costos_indirectos,perdida_esperada,capital_requerido
-1001,Empresa Alfa,150000,19500,4500,1200,3100,2500,1800,1200,800,1500,600,1800,18000
-1002,Diego Cuasapaz,2500,325,75,0,50,0,120,450,150,200,100,85,300
-1003,Corporación Beta,500000,65000,15000,8000,12000,8500,5400,2100,1200,3200,1500,4200,60000
+cif,nombre,tipo_cliente,cartera_vigente,interes_ganado,costo_ftp,interes_pagado,reconocimiento_ftp,ingresos_comisiones,ingresos_servicios,costos_transaccionales,costos_fuerza_ventas,costos_mantenimiento,costos_indirectos,perdida_esperada,capital_requerido
+1001,Corporación Alfa S.A.,Corporativo,250000.0,32500.0,7500.0,2000.0,5100.0,4500.0,3200.0,1500.0,1200.0,2100.0,900.0,2500.0,30000.0
+1002,Diego Cuasapaz,Persona Natural,2500.0,325.0,75.0,0.0,50.0,0.0,120.0,550.0,150.0,200.0,100.0,85.0,300.0
+1003,Tech Innovation Ecuador Cía. Ltda.,Pyme,80000.0,11200.0,2400.0,800.0,1800.0,1500.0,900.0,800.0,600.0,700.0,400.0,1200.0,9600.0
+1004,Comercializadora del Pacífico,Empresarial,500000.0,65000.0,15000.0,12000.0,18000.0,12000.0,8500.0,4500.0,3000.0,4000.0,2000.0,8000.0,60000.0
+1005,María José Andrade,Persona Natural Preferencial,15000.0,1950.0,450.0,350.0,800.0,200.0,450.0,120.0,80.0,150.0,90.0,210.0,1800.0
