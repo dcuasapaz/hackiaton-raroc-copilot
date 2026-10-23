@@ -1,0 +1,4 @@
+cif,nombre,cartera_vigente,interes_ganado,costo_ftp,interes_pagado,reconocimiento_ftp,ingresos_comisiones,ingresos_servicios,costos_transaccionales,costos_fuerza_ventas,costos_mantenimiento,costos_indirectos,perdida_esperada,capital_requerido
+1001,Empresa Alfa,150000,19500,4500,1200,3100,2500,1800,1200,800,1500,600,1800,18000
+1002,Diego Cuasapaz,2500,325,75,0,50,0,120,450,150,200,100,85,300
+1003,Corporación Beta,500000,65000,15000,8000,12000,8500,5400,2100,1200,3200,1500,4200,60000
